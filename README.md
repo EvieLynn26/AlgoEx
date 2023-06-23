@@ -1,4 +1,4 @@
-![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10.52&leftFill=%66FF33 "progress") 
+![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=99.9&leftFill=%66FF33 "progress") 
 
 ## Расписанные билеты на 4-ый семестр алгосов.
 
